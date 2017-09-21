@@ -69,12 +69,12 @@ void MemoryMonitor::initTheme()
     numberColor = "#ffffff";
     summaryColor = "#ffffff";
 
-    memoryForegroundColor = "#2C4860";
+    memoryForegroundColor = "#00B4C7";
     memoryForegroundOpacity = 1;
     memoryBackgroundColor = "#000000";
     memoryBackgroundOpacity = 0.05;
 
-    swapForegroundColor = "#00B4C7";
+    swapForegroundColor = "#2C4860";
     swapForegroundOpacity = 1;
     swapBackgroundColor = "#000000";
     swapBackgroundOpacity = 0.05;
