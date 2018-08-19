@@ -1,3 +1,9 @@
+deepin-desktop-monitor (1.0.1) unstable; urgency=medium
+
+  * add  translations
+
+ -- Deepin Packages Builder <packages@deepin.com>  Sun, 31 Aug 2018 20:09:52 +0800
+
 deepin-desktop-monitor (1.0.0) unstable; urgency=medium
 
   * Initial release 

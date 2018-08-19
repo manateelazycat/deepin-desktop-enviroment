@@ -48,11 +48,11 @@ int main(int argc, char *argv[])
 
         app.setOrganizationName("deepin");
         app.setApplicationName("deepin-desktop-monitor");
-        app.setApplicationDisplayName(QObject::tr("Deepin System Monitor"));
+        app.setApplicationDisplayName(QObject::tr("Deepin Desktop Monitor"));
         app.setApplicationVersion("1.0");
 
         app.setProductIcon(QPixmap::fromImage(QImage(Utils::getQrcPath("logo_96.svg"))));
-        app.setProductName(QApplication::tr("Deepin System Monitor"));
+        app.setProductName(QApplication::tr("Deepin Desktop Monitor"));
         
         app.setWindowIcon(QIcon(Utils::getQrcPath("logo_48.png")));
 
